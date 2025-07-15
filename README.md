@@ -1,2 +1,2 @@
 # Project_F
-Zhoa Jhong Hou jung Wo Zin Xia y o BING CHILLING
+A project done during my A level computer science!
